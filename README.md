@@ -1,4 +1,4 @@
-# knygų_rezervavimo_aplikacija
+# Knygų Rezervavimo Aplikacija
 Knygų rezervavimo aplikacija.
 Versija 0.1
 Apie aplikaciją
