@@ -18,14 +18,14 @@ git clone https://xennw.github.io/knyg-_rezervavimo_aplikacija/
 code .
 
 # terminale pasirenkame susikurtą backendo direktoriją:
-cd knygu-rezervavimas/back
+cd back
 
 # Vykdome šias komandas sudiegti ir paleisti sudiegtiems ir sukurtiems elementams Visual Studio Code terminale:
 npm install 
 npm start
 
 # terminale pasirenkame susikurtą frontendo direktoriją:
-cd knygu-rezervavimas/front
+cd knygu-rezervavimas
 
 # Vykdome šias komandas sudiegti ir paleisti sudiegtiems ir sukurtiems elementams Visual Studio Code terminale:
 npm install 
